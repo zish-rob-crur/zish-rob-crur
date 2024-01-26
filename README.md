@@ -1,21 +1,31 @@
 ```python
 ​
-import json
-from dataclasses import asdict, dataclass
-
-@dataclass
-class Stack:
-    languages   : tuple = ("Python","Go","Javascript","Typescript","HTML","CSS",)
-    databases   : tuple = ("PostgreSQL", "Mongo", "Redis","Elasticsearch","RabbitMQ",)
-    misc        : tuple = ("Docker", "Celery",)
-    ongoing     : tuple = ("Vue","Golang",)
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=4)
+from pydantic import BaseModel
 
 
-stack = Stack()
-print(stack.serialize())
+class zishRobCrur(BaseModel):
+    languages: tuple = (
+        "Python",
+        "Go",
+        "Javascript",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "Vue",
+    )
+    databases: tuple = ("PostgreSQL", "Mongo", "Redis", "RabbitMQ", "MySQL")
+    misc: tuple = ("Docker", "Celery")
+    ongoing: tuple = ("Nothing",)
+    editors: tuple = ("NeoVim", "VSCode", "PyCharm", "GoLand", "WebStorm")
+    terminal: tuple = ("WezTerm", "oh-my-zsh", "tmux")
+    themes: tuple = ("Flexoki Dark", "VsCode Dark+")
+
+
+zishRobCrur = zishRobCrur()
+print(
+    zishRobCrur.model_dump_json(
+        indent=4,
+    )
+)
 ​
 ```
-
