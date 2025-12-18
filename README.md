@@ -2,30 +2,48 @@
 
 # The sunset is beautiful; farewell, sunset
 
-*I prefer restraint and clarity.*  
-*No noise. No over-explaining.*  
-*Energy goes to what matters; boundaries stay with me.*
+<samp>
+I prefer restraint and clarity.<br>
+No noise. No over-explaining.<br>
+Energy goes to what matters; boundaries stay with me.
+</samp>
 
 <br>
-
-| Default | What I keep |
-| :---: | :---: |
-| Quiet, not weak | Training and recovery |
-| Gentle, not pleasing | A low-noise environment |
-| Slow to warm up, steady for the long run | Few, but good relationships |
-| Evidence-first, feelings acknowledged | Reusable personal “defaults” |
-| Simple, durable, sustainable | Long-term thinking |
-
 <br>
 
-### Taste
+### `Default`
 
-> *Clean lines. White space. Minimal effort on display.*  
+<kbd>Quiet, not weak</kbd> &nbsp; <kbd>Gentle, not pleasing</kbd>
+<br>
+<kbd>Slow to warm up, steady for the long run</kbd>
+<br>
+<kbd>Evidence-first, feelings acknowledged</kbd>
+<br>
+<kbd>Simple, durable, sustainable</kbd>
+
+<br>
+<br>
+
+### `What I keep`
+
+<kbd>Training and recovery</kbd> &nbsp; <kbd>A low-noise environment</kbd>
+<br>
+<kbd>Few, but good relationships</kbd> &nbsp; <kbd>Reusable personal “defaults”</kbd>
+<br>
+<kbd>Long-term thinking</kbd>
+
+<br>
+<br>
+
+### `Taste`
+
+> *Clean lines. White space. Minimal effort on display.*
 > *Bright, not harsh. Sharp, not harmful.*
 
 <br>
+<br>
 
-### Toolbox (as code)
+### `Toolbox`
 
 </div>
 
