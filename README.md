@@ -8,8 +8,6 @@ No noise. No over-explaining.<br>
 Energy goes to what matters; boundaries stay with me.
 </samp>
 
-<br>
-<br>
 
 ### `Default`
 
@@ -21,8 +19,6 @@ Energy goes to what matters; boundaries stay with me.
 <br>
 <kbd>Simple, durable, sustainable</kbd>
 
-<br>
-<br>
 
 ### `What I keep`
 
@@ -32,16 +28,12 @@ Energy goes to what matters; boundaries stay with me.
 <br>
 <kbd>Long-term thinking</kbd>
 
-<br>
-<br>
 
 ### `Taste`
 
 > *Clean lines. White space. Minimal effort on display.*
 > *Bright, not harsh. Sharp, not harmful.*
 
-<br>
-<br>
 
 ### `Toolbox`
 
