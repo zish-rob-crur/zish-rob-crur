@@ -1,7 +1,5 @@
 <div align="center">
 
-# The sunset is beautiful; farewell, sunset
-
 <samp>
 I prefer restraint and clarity.<br>
 No noise. No over-explaining.<br>
