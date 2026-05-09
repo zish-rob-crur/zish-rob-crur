@@ -20,12 +20,12 @@ Energy goes to what matters; boundaries stay with me.
 <h3><code>Work</code></h3>
 
 <p>
-  <code>Python</code> · <code>Swift</code> · <code>Shell</code> · <code>Lua</code> · <code>Astro</code><br>
-  <code>MCP</code> · <code>Personal automation</code> · <code>Agent workflows</code>
+  I build small systems that make daily work calmer:<br>
+  <code>agent tools</code> · <code>macOS automation</code> · <code>personal infra</code>
 </p>
 
 <p>
-  Main repositories are pinned below.<br>
+  Start with the pinned repositories below.<br>
   <a href="https://github.com/zish-rob-crur?tab=repositories"><strong>View all public repositories -></strong></a>
 </p>
 
