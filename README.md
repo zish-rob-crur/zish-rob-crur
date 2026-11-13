@@ -47,6 +47,9 @@ boundaries stay with me.
 
 <p align="center">
   <a href="https://ghfind.com/u/zish-rob-crur?ref=badge">
-    <img src="https://ghfind.com/api/card/mini/zish-rob-crur" alt="GitHub Roast Scorecard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zish-rob-crur?variant=strip&amp;theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/zish-rob-crur?variant=strip&amp;theme=light" alt="GitHub Roast Scorecard" width="420" />
+    </picture>
   </a>
 </p>
