@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://ghfind.com/u/zish-rob-crur?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zish-rob-crur?variant=radar&amp;theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/zish-rob-crur?variant=radar&amp;theme=light" alt="GitHub Roast Scorecard" width="600" />
+    </picture>
+  </a>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -44,12 +53,3 @@ boundaries stay with me.
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://ghfind.com/u/zish-rob-crur?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zish-rob-crur?variant=strip&amp;theme=dark" />
-      <img src="https://ghfind.com/api/card/mini/zish-rob-crur?variant=strip&amp;theme=light" alt="GitHub Roast Scorecard" width="420" />
-    </picture>
-  </a>
-</p>
