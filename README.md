@@ -44,3 +44,5 @@ boundaries stay with me.
 </td>
 </tr>
 </table>
+
+[![GitHub Roast Scorecard](https://ghfind.com/api/card/mini/zish-rob-crur)](https://ghfind.com/u/zish-rob-crur?ref=badge)
